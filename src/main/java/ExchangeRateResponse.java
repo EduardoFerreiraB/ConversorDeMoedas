@@ -1,4 +1,5 @@
 import java.util.Map;
+//Tratamento da resposta da API
 public class ExchangeRateResponse {
     private String result;
     private String base_code;
