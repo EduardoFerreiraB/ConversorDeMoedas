@@ -19,6 +19,12 @@
 <pre>5. EUR para BRL        6. BRL para EUR</pre>
 <pre>7. BRL para ARS        8. ARS para BRL</pre>
 <p>É possivel também verificar o seu histórico de conversões</p>
+<p>Para usar esse projeto, basta fazer o download diretamente aqui do github, ou clonar o repositor na sua máquina, utilizar alguma IDE com suporte para Java, e claro, fazer o download da JDK.</p>
+<p>Passo 1: Execute o código no seu PC</p>
+<p>Passo 2: Escolha uma das opções de conversões.</p>
+<p>Passo 3: Escolha o valor que deseja converter.</p>
+<p>Passo 4: O valor convertido será apresentado para você.</p>
+<p>Passo 5: Você pode continuar convertendo outros tipos de moedas, outros valores, ou visualizar o seu histórico de conversões, caso não queira nenhuma dessas opções, basta escolher encerrar o programa.</p>
 
 
 
